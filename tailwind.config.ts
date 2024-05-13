@@ -20,6 +20,9 @@ const config = withUt({
       },
     },
     extend: {
+      fontFamily: {
+        "bricolage-title": "var(--font-bricolage)",
+      },
       colors: {
         tremor: {
           brand: {
