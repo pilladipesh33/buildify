@@ -15,7 +15,7 @@ import { Check } from "lucide-react";
 
 export default function Home() {
   return (
-    <main className="">
+    <main className="md:pb-10">
       <section className="h-full w-full pt-36 relative flex items-center justify-center flex-col">
         {/* DOT BACKGROUND */}
         <div className="absolute bottom-0 left-[-1px] right-0 top-[-1px] bg-[linear-gradient(to_right,#161616_1px,transparent_1px),linear-gradient(to_bottom,#161616_1px,transparent_1px)] bg-[size:4rem_4rem] [mask-image:radial-gradient(ellipse_60%_50%_at_50%_0%,#000_70%,transparent_110%)]" />
