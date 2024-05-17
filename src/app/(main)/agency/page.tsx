@@ -1,14 +1,17 @@
-import { currentUser } from "@clerk/nextjs";
-import { redirect } from "next/navigation";
+import { getAuthUserDetails, verifyAndAcceptInvitation } from "@/lib/queries";
+import { Plan } from "@prisma/client";
 import React from "react";
 
-const Page = async () => {
-  // Get the current authenticated user
-  const authUser = await currentUser();
+const Page = async ({
+  searchParams,
+}: {
+  searchParams: { plan: Plan; state: string; code: string };
+}) => {
+  const agencyId = await verifyAndAcceptInvitation();
+  console.log(agencyId);
 
-  // Check if there is no authenticated user
-  // If not, redirect them to the sign-in page
-  if (!authUser) return redirect("/sign-in");
+  //get user details
+  const user = await getAuthUserDetails();
 
   return <div>Agency Dashboard</div>;
 };
