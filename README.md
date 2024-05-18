@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SaaS Website Builder, Project Management and Dashboard with Stripe using Next.js 14, Bun, Stripe Connect, Prisma, MySQL, Tailwind
 
-## Getting Started
+![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
 
-First, run the development server:
+License: [Purchase your license here for commercial use](https://webprodigies.com/codelicense)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+| 🟢 Full Video | 🔴 Demo |
+|------------|------|
+| [Full Video](https://youtu.be/6omuUOZcWL0) | [Demo](https://webprodigies.com/demo) |
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Private Web Design/Development FREELANCE Community
+Join the Community if you want to learn how to make money this year with websites! FREE access, limited spots only!!!
+[Link - Private Community](https://webprodigies.com/communities)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Get all the help you need
+Share all bugs and solutions in the Discord. Would love to collaborate and get to know talented developers like yourself.
+[Discord](https://discord.gg/GG4wJkxh)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## SaaS Notion Clone with Realtime Cursors, Next.js 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets
+[SaaS Notion Clone](https://www.youtube.com/watch?v=A3l6YYkXzzg)
 
-## Learn More
+## Features in this Application
+- 🤯 Multivendor B2B2B SaaS
+- 🏢 Agency and Sub Accounts
+- 🌐 Unlimited Funnel Hosting
+- 🚀 Full Website & Funnel Builder
+- 💻 Role-based Access
+- 🔄 Stripe Subscription Plans
+- 🛒 Stripe Add-on Products
+- 🔐 Connect Stripe Accounts for All Users! - Stripe Connect
+- 💳 Charge Application Fee per Sale and Recurring Sales
+- 💰 Custom Dashboards
+- 📊 Media Storage
+- 📈 Stripe Product Sync
+- 📌 Custom Checkouts on Funnels
+- 📢 Get Leads from Funnels
+- 🎨 Kanban Board
+- 📂 Project Management System
+- 🔗 Notifications
+- 📆 Funnel Performance Metrics
+- 🧾 Agency and Sub-account Metrics
+- 🌙 Graphs and Charts
+- ☀️ Light & Dark Mode
+- 📄 Functioning Landing Page
 
-To learn more about Next.js, take a look at the following resources:
+## Website with Background Grids
+[ibelick](https://bg.ibelick.com/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Shadcn UI Theme Creator
+[Link to Website](https://gradient.page/tools/shadcn-ui-theme-generator)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Summary
+This video is about a software application called Buildify which helps agency owners manage their clients and businesses. The summary of the video is that Buildify is a multi-tenant SaaS application that allows agency owners to create sub-accounts for their clients. These sub-accounts come with features like contact management, pipeline building, and website building.
 
-## Deploy on Vercel
+Here are the details of what Buildify can do:
+- Agency owners can create sub-accounts for their clients.
+- Sub-account users can manage their contacts, which includes features like keeping track of leads and estimated ticket value.
+- Sub-account users can create pipelines, which are essentially Kanban boards to help them track the progress of their work.
+- Sub-account users can build websites with Buildify.
+- Buildify integrates with Stripe to allow for payment processing.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The video also includes a walkthrough of how to build Buildify using various technologies including Next.js 14, Bun, Stripe Connect, Prisma, and MySQL.
